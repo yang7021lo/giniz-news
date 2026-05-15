@@ -2,7 +2,7 @@
 
 > 현존하는 주요 MCP 서버와 AI/LLM API를 **기능별·용도별·가격별**로 정리한 카탈로그.
 > ⭐ = 공식·공공·신뢰도 높은 제공자 (Anthropic·OpenAI·Google·Microsoft·AWS 등 대형사 또는 MCP 레퍼런스).
-> 작성: 2026-05-15 KST. 신간 업데이트는 매일 아침 8시 [GitHub 레포](https://github.com/yang7021lo/mcp-trends-archive)에 자동 추가.
+> 작성: 2026-05-15 KST. 신간 업데이트는 매일 아침 8시 [GitHub 레포](https://github.com/yang7021lo/giniz-news)에 자동 추가.
 
 ## 📑 목차
 
