@@ -30,8 +30,6 @@
 22. [🏠 실생활 활용 MCP](#22--실생활-활용-mcp)
 23. [🎯 실생활 시나리오별 MCP 조합 추천 (한국 기준)](#23--실생활-시나리오별-mcp-조합-추천-한국-기준)
 
----
-
 ## 1. MCP 서버 — Anthropic 공식 레퍼런스
 
 > [github.com/modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) 공식 레포의 **활성 레퍼런스**. 모두 **무료/오픈소스 (MIT)**.
@@ -47,8 +45,6 @@
 | ⭐ **Everything** | 모든 MCP 기능 테스트 서버 | 학습·디버깅용 |
 
 **아카이브된 레퍼런스** (서드파티에 이관됨): AWS KB Retrieval, Brave Search, EverArt, GitHub, GitLab, Google Drive, Google Maps, PostgreSQL, Puppeteer, Redis, Sentry, Slack, SQLite — 대부분 같은 이름의 서드파티 또는 공식 버전으로 대체.
-
----
 
 ## 2. MCP 서버 — 대기업/공식 파트너
 
@@ -71,8 +67,6 @@
 | ⭐ **Supabase** | Supabase | DB·Auth·Storage | freemium |
 | ⭐ **Brave Search** | Brave | 웹·로컬 검색 (privacy-first) | freemium (월 2000건 무료) |
 
----
-
 ## 3. MCP 서버 — 개발자 도구
 
 | 이름 | 용도 | 제공자 | 가격 |
@@ -85,8 +79,6 @@
 | **MCP CLI Client** | LLM ↔ MCP 도구 호출 CLI | 커뮤니티 | 무료 |
 | **OpenMCP Client** | VSCode/Cursor/Trae용 MCP 디버거 | 커뮤니티 | 무료 |
 | **codemirror-mcp** | CodeMirror에 MCP 리소스 멘션 | 커뮤니티 | 무료 |
-
----
 
 ## 4. MCP 서버 — 데이터베이스
 
@@ -104,8 +96,6 @@
 | **Qdrant** | 벡터 DB (OSS) | 무료/유료 |
 | **Weaviate** | 벡터 DB (OSS) | 무료/유료 |
 
----
-
 ## 5. MCP 서버 — 생산성·협업
 
 | 이름 | 용도 | 가격 |
@@ -120,8 +110,6 @@
 | **Todoist** | 할일 관리 | freemium |
 | ⭐ **Asana** | 프로젝트 관리 | freemium |
 
----
-
 ## 6. MCP 서버 — 검색·웹
 
 | 이름 | 용도 | 가격 |
@@ -133,8 +121,6 @@
 | **SerpAPI** | Google·Bing·Yandex SERP | $50~/월 |
 | **Exa Search** | 임베딩 기반 시멘틱 웹 검색 | freemium |
 | **DuckDuckGo** | 익명 웹 검색 | 무료 |
-
----
 
 ## 7. MCP 서버 — 클라우드·인프라
 
@@ -150,8 +136,6 @@
 | **Docker** | 컨테이너 조작 | 무료 |
 | **Terraform** | IaC 플랜·apply | 무료 (OSS) |
 
----
-
 ## 8. MCP 서버 — 디자인·크리에이티브
 
 | 이름 | 용도 | 가격 |
@@ -162,8 +146,6 @@
 | **Canva** | 디자인 자동화 | freemium |
 | **EverArt** | AI 이미지 생성 (다중 모델) | 유료 |
 
----
-
 ## 9. MCP 서버 — 결제·페이먼트
 
 | 이름 | 용도 | 가격 |
@@ -172,8 +154,6 @@
 | **PayMCP** | MCP 도구를 유료 엔드포인트로 만드는 데코레이터 | OSS + 거래 수수료 |
 | **Toss Payments** (커뮤니티) | 토스 결제 연동 | 거래 수수료 |
 | **Iamport** (커뮤니티) | 아임포트 통합결제 | 거래 수수료 |
-
----
 
 ## 10. MCP 프레임워크·SDK (서버 빌드용)
 
@@ -205,8 +185,6 @@
 | **AgentR Universal SDK** | Python | 자격증명 관리 내장 |
 | **PayMCP** | Py/TS | 결제 데코레이터 |
 
----
-
 ## 11. MCP 관리·게이트웨이·레지스트리
 
 | 이름 | 용도 | 가격 |
@@ -235,8 +213,6 @@
 | **MCPHub** | macOS/Windows GUI 데스크톱 (Jeamee) | OSS |
 | **Awesome MCP Servers** (punkpeye, wong2, appcypher) | 큐레이션 리스트 | 무료 (GitHub) |
 
----
-
 ## 12. AI/LLM API — 텍스트 생성 (LLM)
 
 | 이름 | 제공자 | 강점 | 가격 (입력/출력, 100만 토큰) |
@@ -261,8 +237,6 @@
 | **HyperCLOVA X** | Naver | 한국어 특화 ⭐ (한국 빌더에 추천) | 별도 문의 |
 | **A.X** | SK Telecom | 한국어 특화 | 별도 문의 |
 
----
-
 ## 13. AI/LLM API — 이미지 생성
 
 | 이름 | 제공자 | 강점 | 가격 |
@@ -276,8 +250,6 @@
 | **Recraft V3** | Recraft | 벡터·로고 생성 | freemium |
 | **Leonardo.ai** | Leonardo | 게임 에셋 | freemium |
 | **Adobe Firefly** | Adobe | 상업적 안전, CC 통합 | 구독 |
-
----
 
 ## 14. AI/LLM API — 음성 (STT/TTS)
 
@@ -294,8 +266,6 @@
 | **PlayHT** | TTS | 800+ 음성 | freemium |
 | **Resemble AI** | TTS·음성복제 | 실시간 | 종량 |
 
----
-
 ## 15. AI/LLM API — 임베딩·검색
 
 | 이름 | 제공자 | 강점 | 가격 |
@@ -306,8 +276,6 @@
 | **Cohere Embed v3** | Cohere | 다국어 강점 | $0.10/100만 토큰 |
 | **Jina Embeddings v3** | Jina | OSS+API | freemium |
 | **BGE-M3** | BAAI | OSS, 다국어 | 무료 (셀프호스팅) |
-
----
 
 ## 16. AI/LLM API — 멀티모달·비전
 
@@ -321,8 +289,6 @@
 | **Azure Computer Vision** | OCR·분석 | 종량 |
 | **Naver Clova OCR** ⭐ | 한국어 OCR 1위 | 종량 |
 
----
-
 ## 17. AI/LLM API — 영상 생성
 
 | 이름 | 제공자 | 강점 | 가격 |
@@ -334,8 +300,6 @@
 | **Kling 2.0** | Kuaishou | 가성비 | freemium |
 | **Pika 2.0** | Pika | 짧은 클립 특화 | freemium |
 | **Hailuo (MiniMax)** | MiniMax | 중국발 강자 | freemium |
-
----
 
 ## 18. CTO 메모 — 한국 B2B SaaS 빌더 관점
 
@@ -358,11 +322,6 @@
 - **MCP Shadow IT 리스크** — 사내 도입 시 권한·감사 필수 (Qualys 보고서 참고)
 - **가격 변동성** — LLM API 가격은 분기마다 바뀜. 추상화 레이어 필수
 - **한국어 모델 선택** — 영어권 모델만 쓰면 한국어 도메인 성능 떨어짐. HyperCLOVA X·A.X 혼합 운용 고려
-
----
-
-
----
 
 ## 19. 🇰🇷 한국 공공 API (data.go.kr 외)
 
@@ -441,8 +400,6 @@
 | **문화체육관광부 공연전시** | 문체부 | 공연·전시 정보 |
 | **국립국어원 표준국어대사전** | 국립국어원 | 사전 |
 
----
-
 ## 20. 🇰🇷 한국 민간 API (대기업·SaaS)
 
 ### 카카오
@@ -518,8 +475,6 @@
 | **TMAP API** | 내비게이션·POI·물류 | freemium |
 | **쏘카 / 그린카** | 카셰어링 (B2B 제휴) | 협의 |
 
----
-
 ## 21. 🇰🇷 한국 MCP 생태계
 
 > 한국 MCP 서버는 아직 초기 단계. 대부분 커뮤니티가 만든 비공식 래퍼.
@@ -542,8 +497,6 @@
 | **kakao-talk-bot-mcp** | 메시징 | OSS | 카카오톡 알림톡 |
 
 > *⚠️ 한국형 MCP는 공식 제공자가 거의 없음 → **B2B 기회**. 정식 SDK·게이트웨이 부재.*
-
----
 
 ## 22. 🏠 실생활 활용 MCP
 
@@ -668,8 +621,6 @@
 | **Bitwarden MCP** | 오픈소스 비번 매니저 | freemium |
 | **Authy MCP** (커뮤니티) | TOTP 2FA | 무료 |
 
----
-
 ## 23. 🎯 실생활 시나리오별 MCP 조합 추천 (한국 기준)
 
 ### "출근 준비" 시나리오
@@ -713,8 +664,6 @@
 - [Obot.ai - 엔터프라이즈 MCP 게이트웨이 13선](https://obot.ai/blog/the-13-best-mcp-gateways-for-enterprise-teams/)
 - [Qualys - MCP Shadow IT 분석](https://blog.qualys.com/product-tech/2026/03/19/mcp-servers-shadow-it-ai-qualys-totalai-2026)
 - 각 제공자 공식 가격 페이지 (Anthropic, OpenAI, Google, Mistral, DeepSeek, ElevenLabs, Deepgram 등 — 2026-05 기준)
-
----
 
 *이 카탈로그는 신간이 나올 때마다 매일 아침 8시 KST에 자동 업데이트됩니다.*
 *가격은 2026년 5월 기준이며 변동 가능. 도입 전 공식 페이지에서 재확인 필요.*
